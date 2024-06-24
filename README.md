@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rahul Desharaju and I'm a DevOps Engineer, from Hyderabad</p>
+<p align="left">My name is **Rahul Desharaju** and I'm a **DevOps Engineer**, from Hyderabad</p>
 
 ###
 
