@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently Preparing for CKA ...<br>🎯 Goals: ...is to become Architecture<br></p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently Preparing for CKA ...<br>🎯 Goals: ...is to become architect<br></p>
 
 ###
