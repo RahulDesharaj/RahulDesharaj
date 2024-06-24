@@ -13,9 +13,3 @@
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently Preparing for CKA ...<br>🎯 Goals: ...<br></p>
 
 ###
-
-Where to find me
-Github LinkedIn Medium
-
-
-
